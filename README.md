@@ -13,5 +13,5 @@ jupyter <br>
 1.The eda of this datasets.You can have a general idea of this datasets. The code in the file of steel-defect-detection-eda.ipynb <br>
 2.The baseline of segmentation model.In this competition we are not only classification but alse segmentation .The code in the file of steel-defect-detection-segmentation <br>
 3.We use model ensemble whice include se_resnext50_32x4d、mobilenet2 and resnet34 to build the segmentation modle. The code in the file of steel-defect-detection-ensemble <br>
-4.The classifier of this datasets <br>
+4.The classifier of this datasets ，we use efficientnet and resnet to classifier this datasets,one of these model you can see from the file of EfficientNet-B3-augment2.py<br>
 5.The whole model of this competition.we use segmentation and classification to build this model.The code in the file of steel-defect-detection-final <br>
